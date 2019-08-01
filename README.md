@@ -1,8 +1,7 @@
 # DEVils-Scrum-Tool
 Web cooperative platform for software management. This platform helps teams to implement software projects based on agile methodology (SCRUM) via sprints, epics, user stories and issues.
 
-## Preview of project
-https://www.youtube.com/watch?v=9leSPphzYeI
+[Youtube Preview](https://www.youtube.com/watch?v=9leSPphzYeI)
 
 ## Build and run war in jetty server
     cd ScrumTool
